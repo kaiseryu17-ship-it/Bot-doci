@@ -1,0 +1,5 @@
+meu-bot/
+│
+├── index.html      ← O arquivo principal do site
+├── style.css       ← Arquivo de estilos (CSS)
+└── assets/         ← Pasta opcional para imagens ou ícones
